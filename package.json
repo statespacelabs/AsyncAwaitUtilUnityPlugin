@@ -1,12 +1,12 @@
 {
   "name": "com.modesttree.unity3dasyncawaitutil",
   "description": "A bunch of code to make using async-await easier in Unity3D",
-  "displayName": "Unity3dAsyncAwaitUtil",
-  "version": "0.0.0",
-  "unity": "2019.3",
+  "displayName": "Unity3dAsyncAwaitUtil (Modest Tree Media)",
+  "version": "1.0.1",
+  "unity": "2020.1",
   "type": "tool",
   "dependencies": {
     "com.unity.editorcoroutines":"1.0.0"
   },
-  "author" : "Modest Tree Media"
+  "author":"Other"
 }
