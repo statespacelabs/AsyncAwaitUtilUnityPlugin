@@ -2,7 +2,7 @@
   "name": "com.modesttree.unity3dasyncawaitutil",
   "description": "A bunch of code to make using async-await easier in Unity3D",
   "displayName": "Async Await Util (Modest Tree Media)",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "unity": "2020.1",
   "type": "tool",
   "dependencies": {
